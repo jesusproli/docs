@@ -97,6 +97,7 @@ Estos CustomObjects son implementados dentro de su cuenta Prolibu® por uno de n
         },
         "products": [
             {
+                "name": "Tarraco 1.4 TSI DSG Xcellence",
                 "sku": "992DNUW92UE",
                 "quantity": 1,
                 "discountRate": 10,
